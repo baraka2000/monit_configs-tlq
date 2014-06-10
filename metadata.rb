@@ -1,6 +1,6 @@
 name              "monit_configs-tlq"
-maintainer        "Ben Dixon"
-maintainer_email  "ben@talkingquickly.co.uk"
+maintainer        "Kevin Kornemann"
+maintainer_email  "kevin@proofimaging.com"
 description       "Monit configs for server components"
 version           "0.0.5"
 
